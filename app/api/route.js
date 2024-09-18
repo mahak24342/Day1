@@ -3,7 +3,7 @@ import { connectDB } from "../../lib/config/db";
 
 //import  {TodoModel } from "@/lib/models/todoModel"
 
-import {UtoModel} from "@/lib/models/UtoModel"
+//import {UtoModel} from "@/lib/models/UtoModel"
 
 import UtoModel from '@/lib/models/UtoModel'; // Without curly braces
 
